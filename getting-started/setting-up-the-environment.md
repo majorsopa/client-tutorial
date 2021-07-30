@@ -16,13 +16,13 @@ description: Getting your computer ready for coding
 
 The JRE downloads for JRE 8 can be found here: [https://www.oracle.com/java/technologies/javase-jre8-downloads.html](https://www.oracle.com/java/technologies/javase-jre8-downloads.html)
 
-Other versions can also be found on that website.  It may require an account.  
+Other versions can also be found on that website.  It may require an account.  Note that for Minecraft 1.17+ you need version 16+.  
 
 ## Installing JDK
 
 The JRE downloads for JDK 8 can be found here: [https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.htmlee)
 
-Other versions can also be found on that website.  It may require an account.  
+Other versions can also be found on that website.  It may require an account.  Note that for Minecraft 1.17+ you need version 16+.  
 
 ## Installing an IDE
 
