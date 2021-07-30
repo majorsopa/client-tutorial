@@ -6,5 +6,5 @@
 
 * [Prerequisites](getting-started/prerequisites.md)
 * [Choosing a starting point](getting-started/choosing-a-starting-point.md)
-* [Setting up the environment](getting-started/setting-up-the-environment.md)
+* [Downloading the stuff](getting-started/setting-up-the-environment.md)
 
