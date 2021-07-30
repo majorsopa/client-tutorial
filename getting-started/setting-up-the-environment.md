@@ -1,5 +1,5 @@
 ---
-description: 'Getting your computer ready for coding, part 1'
+description: Getting your computer ready for coding
 ---
 
 # Downloading the stuff
