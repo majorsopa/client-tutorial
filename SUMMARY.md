@@ -12,3 +12,7 @@
 
 * [Learning Fabric](fabric-mods-for-1.16+/learning-fabric.md)
 * [Mixins](fabric-mods-for-1.16+/mixins.md)
+
+## Client Features
+
+* [Modules](client-features/modules.md)
